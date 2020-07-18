@@ -9,7 +9,7 @@ setup(
     author_email='contacto@ivanfouilloux.com',
     url='https://github.com/ivan-fouilloux/CovidMxData',
     # I explain this later on
-    download_url='https://github.com/user/reponame/archive/v_01.tar.gz',
+    download_url='https://github.com/ivan-fouilloux/CovidMxData/archive/v_01.tar.gz',
     # Keywords that define your package best
     keywords=['COVID', 'MEXICO', 'DGE', 'SSA',
               'GOB', 'MX', 'COVID19', 'COVIDMX'],
